@@ -1,4 +1,4 @@
-i# Webpack 2 simple project
+# Webpack 2 simple project
 
 ```
 npm i
